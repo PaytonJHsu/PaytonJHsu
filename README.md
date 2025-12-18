@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaytonJHsu
-- 👀 I’m interested in video game design and developement
+- 👀 I’m interested in video game and web development
 - 🌱 I’m currently learning C and Rust
   
 <!--
